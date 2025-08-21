@@ -7,4 +7,11 @@ body{
 header {border-bottom: solid 4px red;
 padding: 10px;
 font-size: 32px;
-color: black;}
+color: black;
+}
+section{background: yellow;
+padding-bottom: 80px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+}
